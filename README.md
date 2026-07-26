@@ -14,7 +14,7 @@ It intentionally launches with a small, free-tier-friendly set of models. The ar
 
 ## b. Live URL
 
-**[https://ai-indus.vercel.app](https://ai-indus.vercel.app)** _(update this after you deploy — see [Deploying your own copy](#deploying-your-own-copy) below)_
+**[https://ai-indus.vercel.app](https://ai-indus.vercel.app)**
 
 ## c. Features
 
