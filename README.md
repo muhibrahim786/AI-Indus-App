@@ -15,6 +15,7 @@ It intentionally launches with a small, free-tier-friendly set of models. The ar
 ## b. Live URL
 
 **[https://ai-indus.vercel.app](https://ai-indus.vercel.app)**
+NOTE: Gemini's free tier has a low request quoto; if it shows a quoto error, try again shortly or rely on the other configured models.
 
 ## c. Features
 
